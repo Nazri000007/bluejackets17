@@ -1,0 +1,14 @@
+{
+  "name": "WereWolf",
+  "description": "Line Bot Werewolf",
+  "repository": "https://github.com/Nazri000007/bluejackets17",
+  "keywords": ["Line", "php", "static"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/kr/heroku-buildpack-php.git"
+    },
+    {
+      "url": "heroku/php"
+    }
+  ]
+}
